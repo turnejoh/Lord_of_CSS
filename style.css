@@ -1,0 +1,59 @@
+ footer{
+  background-color: rgb(245,237,12);
+  border: 5px solid rgb(11,11,11 );
+  border-radius: 40px ;
+}
+body{
+  background-color: #E5E5E5;
+  background-image:url(https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2019/03/sauron-lord-of-the-rings-fellowship-of-the-ring.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+  margin:30px 50px 30px 50px;
+}
+
+h2{
+  color: #1089FF;
+  text-align: center ;
+  font-family: 'lobster' , cursive;
+  background-color: #5252a3;
+}
+
+p{
+ color: #23374D;
+  font-family: ' Great Vibes', cursive;
+}
+
+header{
+  color: #1089FF;
+  font-family:'Vollkorn SC' , serif;
+  }
+
+div{
+   background-color: Gainsboro;
+   border: 5px solid transparent;
+   text-shawdow : 0px 1px 5px black;
+}
+
+article{
+  border: 5px solid black;
+}
+
+p1{
+  color:#1089FF;
+}
+p2{
+  color: #1089FF;
+}
+p3{
+ color:#1089FF;
+}
+atricle2{
+  border: 5px solid black;
+}
+header1{
+  color: whitesmoke;
+}
+
+
